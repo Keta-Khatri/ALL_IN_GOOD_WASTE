@@ -1,5 +1,11 @@
 # ALL_IN_GOOD_WASTE
 
+# Overview
+The machine uses a Raspberry Pi to recognise and sort trash accurately and efficiently. The project: the camera takes a picture of the trash and using image processing as well as machine learning, it will identify the piece of trash. The display will show the output as well as the confidence level of the sorting. Along with that, the LED’s will light up to give another visual of what trash was identified as. Next, the first motor will start moving to the location above its associated bin. The second motor will turn the cardboard, depositing the trash.
+
+Watch the video:
+https://youtu.be/6Be5FhDPoCI
+
 # Introduction
 
 With the rapidly worsening state of our climate, discovering that only 9% of plastic is accurately sorted alarmed our team members. We are striving to create a machine that precisely and efficiently sorts through trash. With the help of a Raspberry Pi camera and machine learning, our machine will distinguish between trash, paper, and plastic, transport the garbage to its correct bin, and dispose of it properly. Our goal is to make the University of Waterloo a cleaner, more eco-friendly community while also being efficient for our busy students to use.
